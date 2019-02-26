@@ -17,8 +17,7 @@ public class JavaAppGitTest {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Where we dropping");
-        System.out.println("UwU");
-        System.out.println("Nice");
+
     }
     
 }
